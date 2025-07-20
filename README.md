@@ -1,18 +1,18 @@
-                  Online-Store-ASP.Net Web API Project 🛒📲
+#                  Online-Store-ASP.Net Web API Project 🛒📲
  
-Project Desciption 📜:
+##Project Desciption 📜:
   This project is an Online Store Management System developed using ASP.NET Web API, ADO.NET,
   and SQL Server.
   The solution is built using the 3-tier architecture pattern: DAL (Data Access Layer),
   BAL (Business Access Layer), and API (Presentation Layer).
 
-  Technologies Used 💻:
+##Technologies Used 💻:
     ASP.net Web API ⛓️‍💥
     ADO.net ⛓️
     Sql Server 🗃️
     3-Tier Architecture (DAL - BAL - APi) 🔩
 
-  Database Design 🗄️ :
+##Database Design 🗄️ :
   Database Name: OnLineShop_DB
 
   Main Tables:
